@@ -1,2 +1,2 @@
-# abctechnologies code
-"# assignment1" 
+Edureka Project 1 - ABC Technologies
+
